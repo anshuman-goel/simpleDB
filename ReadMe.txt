@@ -1,9 +1,9 @@
-
+	
 Team members:
 Anshul Chandra:			achand13
 Anshuman Goel:			agoel5
 Bhavesh Kasliwal:		bkasliw
-Kaustubh Gondhalekar:	kgondha
+Kaustubh Gondhalekar:	        kgondha
 
 Modified Files
 ./buffer/BasicBufferMgr.java
